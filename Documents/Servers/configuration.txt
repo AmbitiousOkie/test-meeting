@@ -1,0 +1,57 @@
+DS7 - 107.150.34.82
+	WHM - https://107.150.34.82:2087/
+	cPanel https://107.150.34.82:2083
+	Username: root
+	Password: ServersUnderControl!
+
+DS10 - 198.204.226.26
+	Username: root
+	Password: ServersUnderControl!
+
+	MySQL files: /var/lib/mysql
+	Drupal files: /home/wisrtstx
+
+	MySQL Query - SELECT table_schema AS "mysql", SUM(data_length + index_length) / 1024 / 1024 AS "Size (MB)" FROM information_schema.TABLES GROUP BY table_schema;
+
+
+Shawn's e-mail address: shawnjcoughlin@gmail.com
+
+
+
+
+----------------------------------------------
+Datashack
+
+Updated: October 10, 2015
+Username: 16619
+Password: ServersUnderControl!
+
+
+
+----------------------------------------------
+Old information
+
+
+E: shawnjcoughlin@gmail.com
+
+Username: 16619
+Password: 2ijV7gv3YiI6WQB
+
+Root Passwords:
+
+DS7:
+Service ID:51856
+System IP: 107.150.34.82
+U: root 
+P: y42Ps38T7wrbLUMc
+
+==
+
+DS10:
+Service ID: 69389
+System IP: 198.204.226.26
+U: root
+P: EdCRPMeW4YVA
+
+
+
